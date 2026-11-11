@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<gameList>
+  <game>
+    <path>./Robbery Bob 2.sh</path>
+    <name>Robbery Bob 2: Double Trouble</name>
+    <desc>Robbery Bob 2 (Android, engine C++/GLES1) chay qua rb2loader.</desc>
+    <developer>Level Eight / Chillingo</developer>
+    <genre>Stealth</genre>
+  </game>
+</gameList>

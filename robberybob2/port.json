@@ -1,0 +1,17 @@
+{
+  "attr": {
+    "arch": [
+      "aarch64"
+    ],
+    "min_glibc": "2.18",
+    "runtime": [],
+    "title": "Robbery Bob 2: Double Trouble"
+  },
+  "items": [
+    "Robbery Bob 2.sh",
+    "robberybob2/"
+  ],
+  "items_opt": [],
+  "name": "robberybob2.zip",
+  "version": 4
+}
